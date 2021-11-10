@@ -17,3 +17,6 @@ In this project, i developed a sales report using Microsoft Power BI. The main i
 
 * Top 5 Supplier and the revenue and margin of each
 * Filter to display products with the highest revenues from each supplier.
+
+<p align="left"><img src="Images/img03.png"   ></p>
+<p align="left"><img src="Images/img05.png"   ></p>
