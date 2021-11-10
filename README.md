@@ -8,3 +8,5 @@ In this project, i developed a sales report using Microsoft Power BI. The main i
 <p align="left"><img src="./Dashboard.png" ></p>
 
 ## Report consists of the below findings:
+
+<p align="left"><img src="./img03.PNG"   ></p>
