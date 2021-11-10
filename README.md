@@ -12,5 +12,5 @@ In this project, i developed a sales report using Microsoft Power BI. The main i
 * Total of Operational Revenue
 * Gross Margin
 * % of  Gross Margin
-
+* Best Revenue Month
 <p align="left"><img src="Images/img02.png"   ></p>
