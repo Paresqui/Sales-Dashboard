@@ -22,4 +22,6 @@ In this project, i developed a sales report using Microsoft Power BI. The main i
 <p align="left"><img src="Images/img05.png"   ></p>
 
 * Sales Amount per Team and Category
+* The categories are divided between drinks and food.
+* The teams are divided into Online, Wholesales and Retail
 <p align="left"><img src="Images/img04.png"   ></p>
