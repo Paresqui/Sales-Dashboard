@@ -20,3 +20,5 @@ In this project, i developed a sales report using Microsoft Power BI. The main i
 
 <p align="left"><img src="Images/img03.png"   ></p>
 <p align="left"><img src="Images/img05.png"   ></p>
+
+* Sales Amount per Team and Category
