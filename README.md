@@ -10,6 +10,7 @@ In this project, i developed a sales report using Microsoft Power BI. The main i
 ## Report consists of the below findings:
 
 * Total of Operational Revenue
-* % of  Operational Revenue
+* Gross Margin
+* % of  Gross Margin
 
 <p align="left"><img src="Images/img02.png"   ></p>
