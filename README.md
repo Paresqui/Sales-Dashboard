@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./img.png" ></p>
 
-## Contexto
-Neste projeto, desenvolvi um relatório de vendas utilizando  o Microsoft Power BI. A ideia principal deste projeto foi apresentar as informações de vendas. A imagem abaixo mostra os resultados da análise.
+## Overview
+In this project, i developed a sales report using Microsoft Power BI. The main idea of this project was to present sales information. The image below shows the results of the analysis.
 
 <p align="left"><img src="./Dashboard.png" ></p>
